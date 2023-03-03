@@ -1,1 +1,1 @@
-# Earthquakes_Risk_Modellmg
+# Earthquakes_Risk_Modelling
