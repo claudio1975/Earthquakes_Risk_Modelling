@@ -1,5 +1,7 @@
 # Earthquakes_Risk_Modelling
 
+![](images/earthquake-cause.png)
+
 Forecasting earthquakes is one of the most challenging job because they don't show specific patterns resulting 
 by predictions. An earthquake is a natural disaster based on a shaking of Earth’s surface, and caused by a sudden slip on a fault. 
 It releases energy in waves that travel through the Earth's crust. A big earthquake can inflict massive death and huge 
