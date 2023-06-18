@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+feature_engine
+plotly.express
+datetime
+statsmodels
+eli5
+pickle5
+scikit-learn
+
+
