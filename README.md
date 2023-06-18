@@ -1,5 +1,7 @@
 # Earthquakes_Risk_Modelling
 
+Look at the [app](https://towardsinnovationlab-earthquake-risk-prediction-1-app-9tct2r.streamlit.app/)
+
 ![](images/earthquake-cause.png)
 
 Forecasting earthquakes is one of the most challenging job because they don't show specific patterns resulting 
