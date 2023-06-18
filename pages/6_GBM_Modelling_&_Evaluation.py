@@ -412,6 +412,12 @@ coverage_GBM = np.logical_and(
                qgbm_upper_ > y_test.values).mean()
 coverage_GBM
 
+st.subheader("""Feature Importance""")
+
+st.write("""In the charts are reported the permutation feature importance and we can see that depth has the degree of importance 
+with the highest value in several points, seems to be coherent in every prediction.
+""")
+
 
 # Mean Features Importance
 #st.write('GBM mean prediction Features Permutation Importance')
@@ -432,11 +438,6 @@ plt.ylabel("Feature")
 # Display the chart with streamlit
 st.pyplot(fig)
 
-st.subheader("""Feature Importance""")
-
-st.write("""In the charts are reported the permutation feature importance and we can see that depth has the degree of importance 
-with the highest value in several points, seems to be coherent in every prediction.
-""")
 
 # Lower Features Importance
 #st.write('GBM lower prediction Features Permutation Importance')
